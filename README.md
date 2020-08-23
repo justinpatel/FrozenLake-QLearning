@@ -1,7 +1,7 @@
 # FrozenLake-QLearning
 ## Creating a Q table for a frozen-lake problem using Reinforcement Learning
 
-Used gym toolkit from openai
+> Used gym toolkit from openai
 
 5 Important things for Reinforcement Learning:
 1. Environment
@@ -21,7 +21,7 @@ HFFG
 - H stands for Hole in frozen lake, fail
 - G stands for Goal
 
-The Agent will explore the different ways to reach the goal and is rewarded for finding a walkable path to a goal. 
+> The Agent will explore the different ways to reach the goal and is rewarded for finding a walkable path to a goal. 
 
 This is the equation to feed values in Qtable:     
 ```Q[state, action] = Q[state, action] + LEARNING_RATE * (reward + GAMMA * np.max(Q[next_state, :]) - Q[state, action])```
