@@ -10,11 +10,11 @@
 4. Action
 5. Reward
 
-Environment of FrozenLake problem: /n
-SFFF /n
-FHFH /n
-FFFH /n
-HFFG /n
+Environment of FrozenLake problem: <br />
+SFFF <br />
+FHFH <br />
+FFFH <br />
+HFFG <br />
 
 - S stands for Starting position, safe
 - F stands for frozen lake which is walkable, safe
