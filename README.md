@@ -6,9 +6,9 @@
 5 Important things for Reinforcement Learning:
 1. Environment 🎮
 2. Agent 👤
-3. States
+3. States 
 4. Action
-5. Reward
+5. Reward 
 
 Environment of FrozenLake problem: <br />
 SFFF <br />
