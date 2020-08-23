@@ -26,4 +26,4 @@ The Agent will explore the different ways to reach the goal and is rewarded for 
 This is the equation to feed values in Qtable:     
 ```Q[state, action] = Q[state, action] + LEARNING_RATE * (reward + GAMMA * np.max(Q[next_state, :]) - Q[state, action])```
 
-Qtable contains the transitional values of between states and action.
+> Qtable contains the transitional values of between states and action.
