@@ -3,7 +3,7 @@
 
 Used openai's gym toolkit
 
-> 5 Important things for Reinforcement Learning:
+5 Important things for Reinforcement Learning:
 > 1. Environment 🎮
 > 2. Agent 👤
 > 3. States 🎰
