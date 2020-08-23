@@ -1,5 +1,5 @@
 # FrozenLake-QLearning
-Creating a Q table for a frozen-lake problem using Reinforcement Learning
+## Creating a Q table for a frozen-lake problem using Reinforcement Learning
 
 Used gym toolkit from openai
 
