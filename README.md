@@ -1,11 +1,11 @@
-# FrozenLake-QLearning
+# FrozenLake-QLearning 
 ## Creating a Q table for a frozen-lake problem using Reinforcement Learning
 
 > Used gym toolkit from openai
 
 5 Important things for Reinforcement Learning:
-1. Environment
-2. Agent
+1. Environment 🎮
+2. Agent 👤
 3. States
 4. Action
 5. Reward
